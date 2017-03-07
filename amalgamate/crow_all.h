@@ -2987,7 +2987,7 @@ http_parser_version(void) {
 
 
 #pragma once
-
+#include <boost/array.hpp>
 #include <boost/algorithm/string/predicate.hpp>
 #include <boost/functional/hash.hpp>
 #include <unordered_map>
